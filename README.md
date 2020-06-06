@@ -59,7 +59,7 @@ Um marketplace para coleta de resíduos, nele uma pessoa pode encontrar pontos d
 - Selecionar localidade no mapa
 - Cadastrar um ponto de coleta na API
   
-- [ ] Dia 4
+- [x] Dia 4
 #### Topicos Abordados
 - Expo
 - React JS X React Native
