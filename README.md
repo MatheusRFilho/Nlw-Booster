@@ -43,7 +43,7 @@ Um marketplace para coleta de resíduos, nele uma pessoa pode encontrar pontos d
   - Listar ponto especifico
 - Cors
   
-- [ ] Dia 3
+- [x] Dia 3
 #### Topicos Abordados
 - Conceitos
   - JSX
