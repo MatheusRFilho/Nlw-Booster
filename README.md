@@ -11,7 +11,7 @@ Um marketplace para coleta de resíduos, nele uma pessoa pode encontrar pontos d
 
 ### Projeto da Booster
 
-- [ ] Dia 1
+- [x] Dia 1
 #### Topicos Abordados
 - Ambiente de Desenvolvimento
   - Nodejs & NPM
@@ -23,7 +23,7 @@ Um marketplace para coleta de resíduos, nele uma pessoa pode encontrar pontos d
 - Criando projeto ReactJS
 - React Native & Expo	
 
-- [ ] Dia 2
+- [x] Dia 2
 #### Topicos Abordados
 - Conceitos
   - Rotas e recursos
