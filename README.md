@@ -74,7 +74,7 @@ Um marketplace para coleta de resíduos, nele uma pessoa pode encontrar pontos d
 - Buscando detalhes do ponto da API
 - Busca de UF e Cidade
   
-- [ ] Dia 5
+- [x] Dia 5
 #### Topicos Abordados
 - Upload de Imagens
   - Configurando Back-End
