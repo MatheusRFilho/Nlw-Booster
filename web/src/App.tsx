@@ -1,15 +1,16 @@
 import React from 'react';
 import './App.css';
 
+import { BrowserRouter as Router } from 'react-router-dom';
+
 import Routes from './routes';
 
-function App() {
-  return (
-    <Routes />
-  );
-}
+const App: React.FC = () => (
+  <>
+    <Router>
+      <Routes />
+    </Router>
+  </>
+);
 
 export default App;
-
-// JSX: Sintaxe de XML dentro do JavaScript
-//usestate retorna =[valor do estado, função para atualizar  valor do estado]
